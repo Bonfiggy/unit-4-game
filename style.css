@@ -1,0 +1,69 @@
+body {
+	background-image: url("../images/background.jpg");
+}
+
+h1{
+	background-color: orange;
+	color: white;
+	display:inline;
+	clear: both;
+	padding: 10px;
+	border: 2px solid black;
+}
+
+.totalScore {
+	background-color: #009999;
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	width: 350px;
+	color: white;
+	border: 2px solid black;
+	font-size: 150%;
+}
+.gems{
+	display: inline-block;
+		
+	}
+
+.totalWL {
+	background-color: #33ffff;
+	padding: 20px;
+	border: 2px solid black;
+	color: black;
+	height: 115px;
+	width:120px;
+	font-size: 150%;
+}
+
+.instruction {
+	border: 2px solid black;
+	background-color: #ffe699;  
+	font-family: 'Times New Roman', Times, serif;
+	color: green;
+	width: 50%;
+	clear:both;
+	padding: 15px;
+	margin-top: 20px;
+}
+
+.randomNumber {
+	border: 2px solid black;
+	padding: 3%;
+	background-color:   #00cc99; 
+	color: black;
+	width: 250px;
+	font-size: 200%; 
+	font-family: 'Times New Roman', Times, serif; 
+}
+
+ .scoreDisplay {
+ 	border: 2px solid black;
+	padding: 2%; 
+	background-color: #009999; 
+	color: white;
+	font-size: 200%;
+	width: 350px;
+	font-family: 'Times New Roman', Times, serif; 
+ }
+
+ 
